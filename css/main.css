@@ -8,3 +8,6 @@ img {
 .info{
     color: red;
 }
+.hasBorder{
+     border-style: solid
+}
